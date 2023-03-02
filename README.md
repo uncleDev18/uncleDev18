@@ -10,7 +10,9 @@
 
 ###
 
-<p align="left">Hi there! My name is Brian Arce, and I'm a student studying Bachelor of Science in Information Technology at Colegio De                 Montalban. As a student, I'm passionate about learning and pusuing my academic goals.</p>
+<p align="left">Hi there! My name is Brian Arce, and I'm a student studying Bachelor of Science in Information Technology at Colegio De Montalban. As a student, I'm passionate about learning and pusuing my academic goals.</p>
+
+<p align="left">As a student, I'm always looking for ways to challenge myself and push beyond my comfort zone. I enjoy taking on new projects and exploring new topics, whether it's through independent research, interships, or volunteer work.</p>
 
 ###
 
@@ -19,7 +21,7 @@
 ###
 
 <div align="left">
-  <img src="https://www.facebook.com/verastigue18/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -67,4 +69,3 @@
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=uncleDev18.uncleDev18&right_color=magenta"  />
 
-###
