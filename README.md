@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jhon Brian Arce</h1>
-<h3 align="center">Aspiring Web Developer</h3>
+<h3 align="center">Aspiring Web Developer / Software Engineer</h3>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/verastigue_18) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/verastigue18) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/verastigue_18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/verastigue18) 
